@@ -2,7 +2,7 @@
 #include <time.h>
 #include <stdio.h>
 /**
-  *main-Entry point 
+  *main-Entry point
   *Description: betty style doc for function
   *Return: always 0 (Success)
   */
